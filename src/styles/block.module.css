@@ -1,0 +1,24 @@
+.block {
+    background-color: #fff;
+    border-radius: 3px;
+    color: black;
+    box-shadow: 0 0 20px rgb(33, 122, 255);
+    margin: 20px 0;
+}
+
+.blockTitle {
+    padding: 20px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    font-size: 20px;
+    font-weight: bold;
+    background: linear-gradient(to left, #00d2ff, #3a7bd5);
+    color: #fff;
+}
+
+.blockContent {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
